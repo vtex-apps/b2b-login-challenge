@@ -1,7 +1,7 @@
 {
   "vendor": "b2bstore",
   "name": "b2b-login-challenge",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "title": "Challenge block for login",
   "description": "",
   "builders": {
