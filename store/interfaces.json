@@ -1,0 +1,5 @@
+{
+  "challenge.login-condition": {
+    "component": "ChallengeLoginCondition"
+  }
+}
